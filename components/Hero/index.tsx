@@ -4,6 +4,8 @@ import { buttonVariants } from "../ui/button";
 import { Card } from "../ui/card";
 import Image from "next/image";
 import { LoginLink, RegisterLink } from "@kinde-oss/kinde-auth-nextjs/components";
+
+
 const Hero = () => {
   return (
     <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-50 to-indigo-100">
